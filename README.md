@@ -17,20 +17,5 @@ Just save as `index.html` and open in any browser - **No setup required**!
 - ✅ **Fully Responsive** - Desktop, tablet, mobile
 - ✅ **Accessibility** - Keyboard navigation, reduced motion support
 
-## 📱 **Screenshots**
-![Student Leveling Quest](screenshots/hero.png)
-*Animated dashboard with quests, stats, and progress tracking*
 
-## 🚀 **Quick Start**
-1. **Copy** the complete HTML code from `index.html`
-2. **Save** as `index.html`
-3. **Double-click** to open in browser
-4. **Start your student quest!** 🎯
 
-```bash
-# Or clone this repo
-git clone https://github.com/YOUR_USERNAME/student-leveling-quest.git
-cd student-leveling-quest
-open index.html  # macOS
-start index.html  # Windows
-xdg-open index.html  # Linux
