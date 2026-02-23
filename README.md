@@ -1,8 +1,5 @@
 # 🎓 Student Leveling Quest
 
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/student-leveling-quest?style=social)](https://github.com/YOUR_USERNAME/student-leveling-quest)
-[![License](https://img.shields.io/github/license/YOUR_USERNAME/student-leveling-quest)](LICENSE)
-
 **Gamified study tracker for students.** Complete daily quests (reading, coding, flashcards), earn EXP, level up **Focus/Discipline/Knowledge** stats, and track study hours. **100% vanilla HTML/CSS/JS** with smooth animations. Perfect for Java Full Stack learners! 🎓🚀
 
 ## ✨ **Live Demo**
