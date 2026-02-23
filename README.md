@@ -5,10 +5,6 @@
 
 Transform your **daily study routine** into an **epic RPG quest**! Complete study tasks, earn EXP, level up your **Focus • Discipline • Knowledge**, and track your **total study hours**. Perfect gamification for students! 🚀
 
-## ✨ **Live Demo**
-
-Just save as `index.html` and open in any browser - **No setup required**!
-
 ## 🎮 **Features**
 
 - **Daily Study Quests** - Realistic student tasks (reading, coding, flashcards)
